@@ -5,13 +5,13 @@ tutorial repository
 # 소개
 #### 위 코드는 HuggingFace BERT를 사용하여 감정 분석을 진행했습니다.
 
-# 데이터 설명
-## 1. (한국어) 네이버 영화 리뷰 데이터 
+## 데이터 설명
+### 1. (한국어) 네이버 영화 리뷰 데이터 
 #### 1) 칼럼명: id : 아이디 / document : 문장 / label : 긍정(1)/부정(0)
 #### 2) 데이터 셋 종류 :train data/ test data
 #### 3) 한국어 데이터 셋의 주소 : https://github.com/e9t/nsmc.git
 
-## 2. (영어) Friends data
+### 2. (영어) Friends data
 #### 1) 칼럼명 : speaker :화자 / utterance : 대화 /emotion : joy, surprise, non-neutral ,sadness , disgust, fear, anger, neutral
 #### 2) 데이터 셋 구성 : train data/ dev data / test data
 #### 3) 영어 데이터 셋의 주소 : http://doraemon.iis.sinica.edu.tw/emotionlines/index.html
